@@ -42,7 +42,11 @@ Rscript code/run_common_snp_reanalysis.R
 
 ## 4. FinnGen R13 Supplementary Stress Test
 
-The R13 code is namespaced under `code/r13_release_drift/`. Its scripts consume the `inputs/`, `outputs/`, `qa/`, and `metadata/` paths supplied by Supplementary Table S14 in the derived-data archive. Stage those directories at the release root before running the sequence documented in `code/r13_release_drift/README.md`.
+The R13 code is namespaced under `code/r13_release_drift/`. The permanent derived-data archive supplies the fixed objects under `derived_data/S14_release_drift/inputs`, `derived_data/S14_release_drift/outputs`, and `derived_data/S14_release_drift/qa`. Copy or link those three directories to `inputs/`, `outputs/`, and `qa/` at the release root before running the sequence documented in `code/r13_release_drift/README.md`. The packaged-input reproduction command is:
+
+```powershell
+Rscript code/r13_release_drift/reproduce_three_way_from_packaged_inputs.R
+```
 
 R13 is a supplementary release-drift stress test, not an independent validation module.
 

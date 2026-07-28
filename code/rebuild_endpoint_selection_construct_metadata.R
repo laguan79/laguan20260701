@@ -209,7 +209,7 @@ panel$construct_equivalence_tier <- ifelse(
 panel$construct_score_v2_definition <- "0.625*label_distance_v2+0.375*granularity_distance; domain excluded; documented manual relation overrides"
 panel$benchmark_role <- paste0("calibration_", panel$field_domain)
 panel$analysis_tier <- "curated_calibration_benchmark"
-panel$atlas_endpoint_priority <- "archived_tier1_selection"
+panel$archived_endpoint_priority <- "archived_tier1_selection"
 panel$inclusion_decision <- "retained_in_curated_calibration_benchmark"
 
 new_panel_path <- file.path(output_root, "retained_endpoint_panel_rebuilt.tsv")

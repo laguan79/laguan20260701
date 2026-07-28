@@ -18,9 +18,12 @@ benchmark. They calculate:
 
 ## Required Derived Inputs
 
-The archived derived-data release supplies the expected `inputs/`, `outputs/`,
-and `qa/` objects. A raw-GWAS-to-final rebuild requires the original public
-GWAS summary statistics and is outside this code-only directory.
+The archived derived-data release supplies the expected objects under
+`derived_data/S14_release_drift/inputs`, `derived_data/S14_release_drift/outputs`,
+and `derived_data/S14_release_drift/qa`. Copy or link these directories to
+`inputs/`, `outputs/`, and `qa/` at the release root before running the scripts.
+A raw-GWAS-to-final rebuild requires the original public GWAS summary statistics
+and is outside this code-only directory.
 
 ## Software
 
