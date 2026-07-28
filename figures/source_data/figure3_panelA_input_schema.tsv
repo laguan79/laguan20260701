@@ -1,0 +1,6 @@
+group	fields	returned
+Comparison	ID; exposure; outcome	Traceable unit
+Source A	label; beta; SE; P	Estimate + uncertainty
+Source B	label; beta; SE; P	Estimate + uncertainty
+Context	endpoint; instrument basis	Analysis labels
+Assumptions	rho; OR margin; FDR family	Decision settings

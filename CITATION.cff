@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the archived release and the related article."
+title: "Paired-source statistical reporting for cross-biobank genomic evidence"
+authors:
+  - family-names: Li
+    given-names: Lunxi
+  - family-names: Lang
+    given-names: Yin
+  - family-names: Zhou
+    given-names: Jin
+  - family-names: Xu
+    given-names: Zhiqiang
+  - family-names: Yi
+    given-names: Xu
+version: 1.0.0
+date-released: 2026-07-27
+license: MIT
+repository-code: "https://github.com/laguan79/laguan20260701"

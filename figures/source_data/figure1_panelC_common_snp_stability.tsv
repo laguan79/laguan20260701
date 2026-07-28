@@ -1,0 +1,8 @@
+metric	value	denominator
+Common-SNP naive rows	218	218
+FDR heterogeneity	27	218
+Practical equivalence	43	218
+Asymmetric support	148	218
+Original heterogeneity retained	33	37
+Class agreement	986	1060
+Effect-difference correlation	0.9344	

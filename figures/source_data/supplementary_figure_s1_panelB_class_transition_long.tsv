@@ -1,0 +1,76 @@
+original_uncertainty_class	uncertainty_class_common	n	original_label	common_label
+asymmetric_support_without_demonstrated_heterogeneity	asymmetric_support_without_demonstrated_heterogeneity	130	"Asymmetric
+support"	"Asymmetric
+support"
+concordant_cross_source_support	asymmetric_support_without_demonstrated_heterogeneity	5	"Concordant
+support"	"Asymmetric
+support"
+evidence_of_practical_equivalence	asymmetric_support_without_demonstrated_heterogeneity	1	"Practical
+equivalence"	"Asymmetric
+support"
+evidence_of_source_heterogeneity	asymmetric_support_without_demonstrated_heterogeneity	1	"Source
+heterogeneity"	"Asymmetric
+support"
+inconclusive_or_no_evidence_in_either_source	asymmetric_support_without_demonstrated_heterogeneity	11	"Inconclusive/
+no evidence"	"Asymmetric
+support"
+asymmetric_support_without_demonstrated_heterogeneity	concordant_cross_source_support	9	"Asymmetric
+support"	"Concordant
+support"
+concordant_cross_source_support	concordant_cross_source_support	111	"Concordant
+support"	"Concordant
+support"
+evidence_of_practical_equivalence	concordant_cross_source_support	0	"Practical
+equivalence"	"Concordant
+support"
+evidence_of_source_heterogeneity	concordant_cross_source_support	0	"Source
+heterogeneity"	"Concordant
+support"
+inconclusive_or_no_evidence_in_either_source	concordant_cross_source_support	1	"Inconclusive/
+no evidence"	"Concordant
+support"
+asymmetric_support_without_demonstrated_heterogeneity	evidence_of_practical_equivalence	1	"Asymmetric
+support"	"Practical
+equivalence"
+concordant_cross_source_support	evidence_of_practical_equivalence	3	"Concordant
+support"	"Practical
+equivalence"
+evidence_of_practical_equivalence	evidence_of_practical_equivalence	171	"Practical
+equivalence"	"Practical
+equivalence"
+evidence_of_source_heterogeneity	evidence_of_practical_equivalence	1	"Source
+heterogeneity"	"Practical
+equivalence"
+inconclusive_or_no_evidence_in_either_source	evidence_of_practical_equivalence	3	"Inconclusive/
+no evidence"	"Practical
+equivalence"
+asymmetric_support_without_demonstrated_heterogeneity	evidence_of_source_heterogeneity	0	"Asymmetric
+support"	"Source
+heterogeneity"
+concordant_cross_source_support	evidence_of_source_heterogeneity	1	"Concordant
+support"	"Source
+heterogeneity"
+evidence_of_practical_equivalence	evidence_of_source_heterogeneity	0	"Practical
+equivalence"	"Source
+heterogeneity"
+evidence_of_source_heterogeneity	evidence_of_source_heterogeneity	33	"Source
+heterogeneity"	"Source
+heterogeneity"
+inconclusive_or_no_evidence_in_either_source	evidence_of_source_heterogeneity	1	"Inconclusive/
+no evidence"	"Source
+heterogeneity"
+asymmetric_support_without_demonstrated_heterogeneity	inconclusive_or_no_evidence_in_either_source	27	"Asymmetric
+support"	"Inconclusive/
+no evidence"
+concordant_cross_source_support	inconclusive_or_no_evidence_in_either_source	0	"Concordant
+support"	"Inconclusive/
+no evidence"
+evidence_of_practical_equivalence	inconclusive_or_no_evidence_in_either_source	7	"Practical
+equivalence"	"Inconclusive/
+no evidence"
+evidence_of_source_heterogeneity	inconclusive_or_no_evidence_in_either_source	2	"Source
+heterogeneity"	"Inconclusive/
+no evidence"
+inconclusive_or_no_evidence_in_either_source	inconclusive_or_no_evidence_in_either_source	541	"Inconclusive/
+no evidence"	"Inconclusive/
+no evidence"

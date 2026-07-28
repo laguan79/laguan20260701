@@ -1,0 +1,5 @@
+comparison	n	analysis	evidence_class
+Naive one-source significance	243	Source-specific instruments	naive_claim
+Retained as heterogeneity	31	Source-specific instruments	evidence_of_source_heterogeneity
+Practical equivalence	45	Source-specific instruments	evidence_of_practical_equivalence
+Asymmetric support	167	Source-specific instruments	asymmetric_support_without_demonstrated_heterogeneity

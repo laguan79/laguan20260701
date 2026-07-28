@@ -1,0 +1,52 @@
+rho	metric	n
+-0.3	FDR-supported source difference	32
+-0.3	Within declared 20% margin	212
+-0.3	One-source nominal support	243
+-0.25	FDR-supported source difference	32
+-0.25	Within declared 20% margin	215
+-0.25	One-source nominal support	243
+-0.2	FDR-supported source difference	33
+-0.2	Within declared 20% margin	216
+-0.2	One-source nominal support	243
+-0.15	FDR-supported source difference	34
+-0.15	Within declared 20% margin	221
+-0.15	One-source nominal support	243
+-0.1	FDR-supported source difference	35
+-0.1	Within declared 20% margin	222
+-0.1	One-source nominal support	243
+-0.05	FDR-supported source difference	37
+-0.05	Within declared 20% margin	224
+-0.05	One-source nominal support	243
+5.55111512312578e-17	FDR-supported source difference	37
+5.55111512312578e-17	Within declared 20% margin	226
+5.55111512312578e-17	One-source nominal support	243
+0.05	FDR-supported source difference	39
+0.05	Within declared 20% margin	232
+0.05	One-source nominal support	243
+0.1	FDR-supported source difference	40
+0.1	Within declared 20% margin	237
+0.1	One-source nominal support	243
+0.15	FDR-supported source difference	41
+0.15	Within declared 20% margin	241
+0.15	One-source nominal support	243
+0.2	FDR-supported source difference	41
+0.2	Within declared 20% margin	244
+0.2	One-source nominal support	243
+0.25	FDR-supported source difference	41
+0.25	Within declared 20% margin	250
+0.25	One-source nominal support	243
+0.3	FDR-supported source difference	43
+0.3	Within declared 20% margin	257
+0.3	One-source nominal support	243
+0.35	FDR-supported source difference	48
+0.35	Within declared 20% margin	263
+0.35	One-source nominal support	243
+0.4	FDR-supported source difference	56
+0.4	Within declared 20% margin	273
+0.4	One-source nominal support	243
+0.45	FDR-supported source difference	62
+0.45	Within declared 20% margin	279
+0.45	One-source nominal support	243
+0.5	FDR-supported source difference	70
+0.5	Within declared 20% margin	285
+0.5	One-source nominal support	243

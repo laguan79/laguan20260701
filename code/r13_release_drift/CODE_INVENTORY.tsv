@@ -1,0 +1,14 @@
+file	role
+code/extract_r13_locked_variants.R	Extract frozen FinnGen R13 endpoint-variant associations from the official variant API
+code/validate_r13_api_against_tabix.R	Validate API beta/P and reconstructed SE against exact Tabix records
+code/reproduce_three_way_from_packaged_inputs.R	Reproduce three-source fixed-instrument estimates from archived derived inputs
+code/analyse_release_stability.R	Calculate source/release contrasts, evidence classes, bootstrap intervals, and A/B/C gates
+code/summarize_multiplicity_sensitivity.R	Summarize joint/separate BH, BY, and rho sensitivity
+code/run_full_leave_one_decision_pipeline.R	Recompute decisions after each endpoint or exposure omission
+code/audit_snp_level_release.R	Summarize SNP- and cell-level release consistency
+code/build_targeted_exact_tabix_lock.R	Build the deterministic post-effect forensic exact-query lock
+code/extract_targeted_exact_tabix.R	Extract exact Tabix records for locked forensic queries
+code/summarize_targeted_exact_precision.R	Summarize API-to-Tabix SE precision
+code/estimate_targeted_exact_se_sensitivity.R	Re-estimate R13 effects after targeted exact-SE replacement
+code/compare_targeted_exact_sensitivity.R	Compare primary and exact-SE evidence decisions
+code/compare_full_leave_one_exact.R	Compare primary and exact-SE leave-one decision pipelines
